@@ -36,3 +36,23 @@
 
 **WHEN** the password is generated<br>
 **THEN** the password is either displayed in an alert or written to the page
+
+<br>
+
+### **CONCEPTS TO KNOW**
+* Organize logical operations into functions 
+* work with iterating through alphanumeric characters
+* render that data using JS
+* create event listeners for things that happen on page
+* and push to array
+* random values (number 0-9 and characters a-z A-Z);
+
+<br>
+
+### Prompts
+* How many characters would you like your password to contain?
+* password length must be provided as a number
+* Click OK to confirm including special characters
+* Click OK to confirm including numeric characters
+* Click OK to confirm including lowercase characters
+* Click OK to confirm including uppercase characters
